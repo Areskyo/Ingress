@@ -2,7 +2,7 @@
 DOMAIN,www.gstatic.com,PROXY
 DOMAIN,niantic.helpshift.com,PROXY
 DOMAIN,settings.crashlytics.com,PROXY
-DOMAIN,ing-maptiles.nianticstatic.com,PRROXY
+DOMAIN,ing-maptiles.nianticstatic.com,PROXY
 DOMAIN,static-dot-niantic-assets.appspot.com,PROXY
 DOMAIN,mission-author-dot-betaspike.appspot.com,PROXY
 DOMAIN-SUFFIX,googleapis.com,PROXY
