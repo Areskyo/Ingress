@@ -11,4 +11,5 @@ list包含游戏规则以及任务申请（Mission Authoring Tool）、Intel Map
 在[filter_remote]下添加List地址 https://raw.githubusercontent.com/Areskyo/Ingress/master/IngressRules.list,tag=Ingress,enabled=true
 
 # Surge:
-在[Rule]下添加List地址 RULE-SET,https://raw.githubusercontent.com/Areskyo/Ingress/master/IngressRules.list,Ingress
+在[Rule]下添加List地址
+RULE-SET,https://raw.githubusercontent.com/Areskyo/Ingress/master/IngressRules.list,Ingress
